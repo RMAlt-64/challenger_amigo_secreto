@@ -4,12 +4,8 @@ let boton = document.getElementById('boton');
 function agregarAmigo(){
     let listaAmigos = [];
     let amigo = nombres.value;
-    
     listaAmigos.push(amigo);
-    
     console.log(listaAmigos);
-
 }
-
 
 boton.addEventListener('click', agregarAmigo());
