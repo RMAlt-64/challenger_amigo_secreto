@@ -46,6 +46,7 @@ https://github.com/user-attachments/assets/e4fa23ff-550f-442d-8e86-3cdf6d3e5125
 <h1>Problemas Comunes</h1>  
 No se pueden agregar nombres: Asegúrate de que el campo no esté vacío.
 El sorteo no funciona: Verifica que todos los nombres sean únicos.
+<br>
 Contribuciones
 Si deseas contribuir a este proyecto, por favor abre un issue o envía un pull request.
 
